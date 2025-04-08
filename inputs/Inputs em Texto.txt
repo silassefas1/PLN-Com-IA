@@ -1,3 +1,4 @@
+Texto em Audio EN
 The weather is nice today.
 
 I would like a cup of coffee, please.
@@ -9,7 +10,7 @@ Can you help me with this?
 I’m learning how to code in Python.
 
 
-
+Texto em Audio PT
 O tempo está agradável hoje.
 
 Eu gostaria de uma xícara de café, por favor.
@@ -21,7 +22,7 @@ Você pode me ajudar com isso?
 Estou aprendendo a programar em Python.
 
 
-
+Texto em Audio KO
 오늘 날씨 좋아요.
 
 커피 한 잔 주세요.
@@ -31,6 +32,9 @@ Estou aprendendo a programar em Python.
 이거 좀 도와주세요.
 
 나는 파이썬을 배우고 있어요.
+
+
+Validação de Emoções
 
 Uau! Eu não acredito... deu certo!
 Isso é incrível!
