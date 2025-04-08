@@ -1,0 +1,39 @@
+The weather is nice today.
+
+I would like a cup of coffee, please.
+
+Where is the nearest train station?
+
+Can you help me with this?
+
+I’m learning how to code in Python.
+
+
+
+O tempo está agradável hoje.
+
+Eu gostaria de uma xícara de café, por favor.
+
+Onde fica a estação de trem mais próxima?
+
+Você pode me ajudar com isso?
+
+Estou aprendendo a programar em Python.
+
+
+
+오늘 날씨 좋아요.
+
+커피 한 잔 주세요.
+
+가까운 역이 어디에요?
+
+이거 좀 도와주세요.
+
+나는 파이썬을 배우고 있어요.
+
+Uau! Eu não acredito... deu certo!
+Isso é incrível!
+Mas espera... o quê? Não era pra isso acontecer.
+Tudo bem. Respira... vai ficar tudo certo.
+

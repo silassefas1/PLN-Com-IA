@@ -1,0 +1,148 @@
+{
+    "documents": [
+        {
+            "id": "id__2013",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.89,
+                "neutral": 0.09,
+                "negative": 0.02
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.81,
+                        "neutral": 0.17,
+                        "negative": 0.02
+                    },
+                    "offset": 0,
+                    "length": 5,
+                    "text": "Uau! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 5,
+                    "length": 19,
+                    "text": "Eu não acredito... ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.96,
+                        "neutral": 0.04,
+                        "negative": 0
+                    },
+                    "offset": 24,
+                    "length": 11,
+                    "text": "deu certo! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 35,
+                    "length": 17,
+                    "text": "Isso é incrível! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.96,
+                        "negative": 0.02
+                    },
+                    "offset": 52,
+                    "length": 14,
+                    "text": "Mas espera... ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.87,
+                        "negative": 0.12
+                    },
+                    "offset": 66,
+                    "length": 7,
+                    "text": "o quê? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.74,
+                        "negative": 0.26
+                    },
+                    "offset": 73,
+                    "length": 28,
+                    "text": "Não era pra isso acontecer. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.78,
+                        "neutral": 0.14,
+                        "negative": 0.08
+                    },
+                    "offset": 101,
+                    "length": 10,
+                    "text": "Tudo bem. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.28,
+                        "neutral": 0.7,
+                        "negative": 0.02
+                    },
+                    "offset": 111,
+                    "length": 11,
+                    "text": "Respira... ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.91,
+                        "neutral": 0.08,
+                        "negative": 0
+                    },
+                    "offset": 122,
+                    "length": 22,
+                    "text": "vai ficar tudo certo. ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
